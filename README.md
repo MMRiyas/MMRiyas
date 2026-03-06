@@ -1,6 +1,6 @@
 # M. Muhammed Riyas
 
-Computer Science student interested in **Systems Programming, Operating Systems, and Cybersecurity fundamentals**.
+Computer Science student focused on **Systems Programming, Linux internals, and Cybersecurity fundamentals**.
 
 I enjoy understanding how systems work internally — including memory management, processes, file systems, and network communication. My goal is to build strong **low-level foundations** before moving into advanced security topics.
 
@@ -75,24 +75,20 @@ Concepts demonstrated:
 
 ## Technical Skills
 
-**Programming**
-
+**Languages**
 - C
 - Python
 
 **Tools**
-
 - Git
 - GitHub
 - Linux
 - GCC
 
 **Concepts**
-
 - File I/O
-- String processing
-- Command-line applications
-- Basic security concepts
+- String manipulation
+- Command-line tools
 
 ---
 
@@ -111,6 +107,15 @@ Concepts demonstrated:
 I prefer understanding how systems work at a **low level** rather than relying only on high-level tools.
 
 My goal is to build strong foundations in **systems programming** and apply that knowledge to **cybersecurity**.
+
+---
+
+## Currently Learning
+
+- Memory management and pointers in C
+- Linux process and system internals
+- Networking fundamentals
+- Secure programming practices
 
 ---
 
