@@ -7,10 +7,9 @@ I enjoy understanding how systems work internally — including memory managemen
 ---
 
 ## GitHub Stats
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMRiyas&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMRiyas&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MMRiyas&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMRiyas&theme=default)
 
 ---
 
