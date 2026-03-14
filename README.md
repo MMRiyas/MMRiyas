@@ -1,4 +1,4 @@
-# M. Muhammed Riyas
+# M.M Muhammed Riyas
 
 Computer Science student focused on **Systems Programming, Linux internals, and Cybersecurity fundamentals**.
 
